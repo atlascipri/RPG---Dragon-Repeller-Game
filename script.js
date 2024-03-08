@@ -141,3 +141,7 @@ function fightBeast() {
 function fightDragon() {
 
 }
+
+function goFight(){
+
+}
